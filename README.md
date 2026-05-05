@@ -1,4 +1,4 @@
-°°📚 BookWorld: Sistema de Gestión Bibliotecaria
+°° BookWorld: Sistema de Gestión Bibliotecaria
 
 **BookWorld** es una solución de software de escritorio desarrollada en **C# (.NET 6.0)** como parte del **Taller de Programación (Semana 6)**. El sistema automatiza el flujo de préstamos, devoluciones y gestión de inventario, eliminando la necesidad de registros manuales y asegurando la integridad de las reglas de negocio.
 
